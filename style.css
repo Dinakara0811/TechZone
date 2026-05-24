@@ -57,6 +57,40 @@ nav a:hover {
     font-size: 14px;
 }
 
+.p{
+    color: #666;
+    font-size: 14px;
+}
+
+.td{
+    background-color: #f8f9fa;
+    padding: 25px; 
+    border-radius: 10px;
+}
+
+.shop{
+    text-decoration: none;
+    background-color: #3498db;
+    color: white;
+    padding: 12px 28px;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-top: 15px;
+}
+.about{
+    background-color: #1a252f; 
+    color: white; 
+    padding: 50px 5%; 
+    margin-top: 40px;
+}
+
+.ap{
+    color: #bdc3c7;
+    font-size: 15px;
+    text-align: justify;
+}
+
 #c1{
     background-color: #e4e6e7;
 }
