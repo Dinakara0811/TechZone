@@ -1,0 +1,110 @@
+body {
+    background-color: #ffffff;
+    color: #333;
+    padding: 0;
+    margin: 0;
+    }
+
+header{
+    background-color: #1a252f;
+    padding: 10px 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    margin: 0;
+    }
+
+.TZ{
+    font-size: 25px;
+    color: #3498db;
+    }
+
+nav a{
+    font-size: 16px;
+    color: #fff;
+    margin-left: 20px;
+    text-decoration: none;
+    }
+
+nav a:hover {
+    color: #3498db;
+    }
+
+.hm {
+    background-color: #2c3e50;
+    color: #fff;
+    text-align: center;
+    padding: 30px 20px;
+    }
+
+.hm-h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    }
+
+.hm-p {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #bdc3c7;
+    }
+
+.Offers {
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#c1{
+    background-color: #e4e6e7;
+}
+
+.category{ 
+    padding: 60px 5%;
+    
+}
+
+.ch2 {
+   
+    margin-bottom: 30px;
+    border-left: 5px solid #3498db;
+    padding-left: 10px;
+}
+
+.prize{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.in-stock {
+    background-color: #d4edda; 
+    color: #155724;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 3px 10px;
+    border-radius: 4px;
+}
+
+.out-stock{
+    background-color: #f8d7da;
+    color: #721c24;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 3px 10px;
+    border-radius: 4px;
+}
+
+footer {
+    background-color: #1a252f;
+    color: #bdc3c7;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
